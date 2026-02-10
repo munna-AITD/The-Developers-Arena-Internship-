@@ -1,0 +1,18 @@
+suresh kumar, 89
+mukesh, 78
+sanju, 76
+kajal, 98
+manisha, 67
+kajol, 99
+sanjana, 58
+sonali, 67
+mukani, 46
+arpita, 76
+kanha, 77
+krishna, 78
+munna,99
+sunny,99
+101,Sonam,67
+pinki,sonam,43
+101,mukesh,87
+102,neelam,78
