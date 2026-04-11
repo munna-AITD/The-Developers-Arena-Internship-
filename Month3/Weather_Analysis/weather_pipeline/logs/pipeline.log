@@ -1,0 +1,286 @@
+2026-03-27 20:01:32,721 - INFO - ETL pipeline started
+2026-03-27 20:01:33,839 - INFO - Data extracted successfully
+2026-03-27 20:01:33,891 - INFO - Data transformed successfully
+2026-03-27 20:01:33,891 - INFO - Data validation passed
+2026-03-27 20:01:33,920 - INFO - Data loaded into database
+2026-03-27 20:12:00,547 - INFO - ETL pipeline started
+2026-03-27 20:12:01,793 - INFO - Data extracted successfully
+2026-03-27 20:12:01,848 - INFO - Data transformed successfully
+2026-03-27 20:12:01,848 - INFO - Data validation passed
+2026-03-27 20:12:01,874 - INFO - Data loaded into database
+2026-03-27 20:12:55,109 - INFO - ETL pipeline started
+2026-03-27 20:12:56,069 - INFO - Data extracted successfully
+2026-03-27 20:12:56,120 - INFO - Data transformed successfully
+2026-03-27 20:12:56,121 - INFO - Data validation passed
+2026-03-27 20:12:56,153 - INFO - Data loaded into database
+2026-03-27 20:16:54,540 - INFO - ETL pipeline started
+2026-03-27 20:16:56,088 - INFO - Data extracted successfully
+2026-03-27 20:16:56,153 - INFO - Data transformed successfully
+2026-03-27 20:16:56,153 - INFO - Data validation passed
+2026-03-27 20:16:56,185 - INFO - Data loaded into database
+2026-03-27 20:21:16,479 - INFO - ETL pipeline started
+2026-03-27 20:21:25,152 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-27 20:25:28,025 - INFO - ETL pipeline started
+2026-03-27 20:25:36,194 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-27 20:27:12,242 - INFO - ETL pipeline started
+2026-03-27 20:27:20,683 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-27 20:27:36,759 - INFO - ETL pipeline started
+2026-03-27 20:27:45,428 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-27 20:29:57,515 - INFO - ETL pipeline started
+2026-03-27 20:29:58,127 - INFO - Data extracted successfully
+2026-03-27 20:29:58,132 - ERROR - Transformation failed: 'list'
+2026-03-27 20:29:58,133 - ERROR - ETL pipeline failed: 'list'
+2026-03-27 20:30:29,962 - INFO - ETL pipeline started
+2026-03-27 20:30:30,577 - INFO - Data extracted successfully
+2026-03-27 20:30:30,577 - ERROR - Transformation failed: 'list'
+2026-03-27 20:30:30,577 - ERROR - ETL pipeline failed: 'list'
+2026-03-27 20:33:09,417 - INFO - ETL pipeline started
+2026-03-27 20:33:10,311 - INFO - Data extracted successfully
+2026-03-27 20:33:10,314 - ERROR - Transformation failed: 'list'
+2026-03-27 20:33:10,315 - ERROR - ETL pipeline failed: 'list'
+2026-03-27 20:36:24,433 - INFO - ETL pipeline started
+2026-03-27 20:36:25,487 - INFO - Data extracted successfully
+2026-03-27 20:36:25,493 - ERROR - Transformation failed: 'list'
+2026-03-27 20:36:25,493 - ERROR - ETL pipeline failed: 'list'
+2026-03-27 20:39:18,183 - INFO - ETL pipeline started
+2026-03-27 20:39:26,896 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-27 20:41:50,724 - INFO - ETL pipeline started
+2026-03-27 20:41:59,257 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-27 22:05:22,461 - INFO - ETL pipeline started
+2026-03-27 22:05:45,580 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-27 22:15:35,617 - INFO - ETL pipeline started
+2026-03-27 22:15:45,267 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 12:52:52,975 - INFO - ETL pipeline started
+2026-03-28 12:53:06,511 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 13:11:57,185 - INFO - ETL pipeline started
+2026-03-28 13:12:06,149 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 13:12:59,868 - INFO - ETL pipeline started
+2026-03-28 13:13:10,035 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 13:18:38,438 - INFO - ETL pipeline started
+2026-03-28 13:18:46,860 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 13:22:09,846 - INFO - ETL pipeline started
+2026-03-28 13:22:18,411 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 13:26:05,829 - INFO - ETL pipeline started
+2026-03-28 13:26:18,516 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 13:26:37,486 - INFO - ETL pipeline started
+2026-03-28 13:26:46,207 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 13:30:52,724 - INFO - ETL pipeline started
+2026-03-28 13:30:53,892 - INFO - Data extracted successfully
+2026-03-28 13:30:53,893 - ERROR - Transformation failed: 'list'
+2026-03-28 13:30:53,893 - ERROR - ETL pipeline failed: 'list'
+2026-03-28 13:43:51,844 - INFO - ETL pipeline started
+2026-03-28 13:43:59,725 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 13:51:22,188 - INFO - ETL pipeline started
+2026-03-28 13:51:32,417 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 19:32:18,668 - INFO - ETL pipeline started
+2026-03-28 19:32:26,201 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 19:38:34,441 - INFO - ETL pipeline started
+2026-03-28 19:38:41,771 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 19:42:46,507 - INFO - ETL pipeline started
+2026-03-28 19:42:53,883 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 19:43:05,132 - INFO - ETL pipeline started
+2026-03-28 19:43:12,467 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 19:44:51,348 - INFO - ETL pipeline started
+2026-03-28 19:44:58,780 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 19:47:36,248 - INFO - ETL pipeline started
+2026-03-28 19:47:42,315 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 19:51:54,202 - INFO - ETL pipeline started
+2026-03-28 19:52:01,534 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 19:58:04,358 - INFO - ETL pipeline started
+2026-03-28 19:58:11,679 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 20:03:26,265 - INFO - ETL pipeline started
+2026-03-28 20:03:33,584 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 20:21:15,632 - INFO - ETL pipeline started
+2026-03-28 20:21:16,344 - INFO - Data extracted successfully
+2026-03-28 20:21:16,367 - INFO - Data transformed successfully
+2026-03-28 20:21:16,367 - INFO - Data validation passed
+2026-03-28 20:21:16,406 - INFO - Data loaded into database
+2026-03-28 22:27:44,848 - INFO - ETL pipeline started
+2026-03-28 22:27:46,095 - INFO - Data extracted successfully
+2026-03-28 22:27:46,242 - INFO - Data transformed successfully
+2026-03-28 22:27:46,243 - INFO - Data validation passed
+2026-03-28 22:27:46,291 - INFO - Data loaded into database
+2026-03-28 23:10:06,190 - INFO - ETL pipeline started
+2026-03-28 23:10:12,322 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-28 23:10:49,908 - INFO - ETL pipeline started
+2026-03-28 23:10:50,635 - INFO - Data extracted successfully
+2026-03-28 23:10:50,668 - INFO - Data transformed successfully
+2026-03-28 23:10:50,669 - INFO - Data validation passed
+2026-03-28 23:10:50,710 - INFO - Data loaded into database
+2026-03-29 08:44:12,111 - INFO - ETL pipeline started
+2026-03-29 08:44:12,671 - INFO - Data extracted successfully
+2026-03-29 08:44:12,706 - INFO - Data transformed successfully
+2026-03-29 08:44:12,706 - INFO - Data validation passed
+2026-03-29 08:44:12,745 - INFO - Data loaded into database
+2026-03-29 11:12:39,550 - INFO - ETL pipeline started
+2026-03-29 11:12:45,907 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-29 11:41:06,406 - INFO - ETL pipeline started
+2026-03-29 11:41:07,483 - INFO - Data extracted successfully
+2026-03-29 11:41:07,624 - INFO - Data transformed successfully
+2026-03-29 11:41:07,625 - INFO - Data validation passed
+2026-03-29 11:41:07,711 - INFO - Data loaded into database
+2026-03-29 11:43:04,904 - INFO - ETL pipeline started
+2026-03-29 11:43:05,581 - INFO - Data extracted successfully
+2026-03-29 11:43:05,605 - INFO - Data transformed successfully
+2026-03-29 11:43:05,606 - INFO - Data validation passed
+2026-03-29 11:43:05,642 - INFO - Data loaded into database
+2026-03-29 15:00:43,947 - INFO - ETL pipeline started
+2026-03-29 15:00:45,565 - INFO - Data extracted successfully
+2026-03-29 15:00:45,834 - INFO - Data transformed successfully
+2026-03-29 15:00:45,844 - INFO - Data validation passed
+2026-03-29 15:00:45,950 - INFO - Data loaded into database
+2026-03-29 17:27:14,223 - INFO - ETL pipeline started
+2026-03-29 17:27:20,422 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-29 17:30:29,834 - INFO - ETL pipeline started
+2026-03-29 17:30:36,713 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-29 22:12:45,795 - INFO - ETL pipeline started
+2026-03-29 22:12:46,570 - INFO - Data extracted successfully
+2026-03-29 22:12:46,602 - INFO - Data transformed successfully
+2026-03-29 22:12:46,603 - INFO - Data validation passed
+2026-03-29 22:12:46,640 - INFO - Data loaded into database
+2026-03-29 22:36:25,818 - INFO - ETL pipeline started
+2026-03-29 22:36:32,039 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-30 11:30:13,043 - INFO - ETL pipeline started
+2026-03-30 11:30:14,065 - INFO - Data extracted successfully
+2026-03-30 11:30:14,108 - INFO - Data transformed successfully
+2026-03-30 11:30:14,108 - INFO - Data validation passed
+2026-03-30 11:30:14,150 - INFO - Data loaded into database
+2026-03-30 19:39:18,275 - INFO - ETL pipeline started
+2026-03-30 19:39:19,715 - INFO - Data extracted successfully
+2026-03-30 19:39:19,742 - INFO - Data transformed successfully
+2026-03-30 19:39:19,743 - INFO - Data validation passed
+2026-03-30 19:39:19,780 - INFO - Data loaded into database
+2026-03-30 20:39:33,740 - INFO - ETL pipeline started
+2026-03-30 20:39:35,841 - INFO - Data extracted successfully
+2026-03-30 20:39:35,957 - INFO - Data transformed successfully
+2026-03-30 20:39:35,959 - INFO - Data validation passed
+2026-03-30 20:39:35,999 - INFO - Data loaded into database
+2026-03-30 21:44:17,187 - INFO - ETL pipeline started
+2026-03-30 21:44:18,381 - INFO - Data extracted successfully
+2026-03-30 21:44:18,381 - INFO - Data transformed successfully
+2026-03-30 21:44:18,381 - INFO - Data validation passed
+2026-03-30 21:44:18,400 - INFO - Data loaded into database
+2026-03-30 22:44:18,522 - INFO - ETL pipeline started
+2026-03-30 22:44:19,436 - INFO - Data extracted successfully
+2026-03-30 22:44:19,585 - INFO - Data transformed successfully
+2026-03-30 22:44:19,585 - INFO - Data validation passed
+2026-03-30 22:44:19,630 - INFO - Data loaded into database
+2026-03-31 17:09:42,801 - INFO - ETL pipeline started
+2026-03-31 17:09:45,739 - INFO - Data extracted successfully
+2026-03-31 17:09:45,773 - INFO - Data transformed successfully
+2026-03-31 17:09:45,774 - INFO - Data validation passed
+2026-03-31 17:09:45,811 - INFO - Data loaded into database
+2026-03-31 20:04:01,399 - INFO - ETL pipeline started
+2026-03-31 20:04:02,371 - INFO - Data extracted successfully
+2026-03-31 20:04:02,773 - INFO - Data transformed successfully
+2026-03-31 20:04:02,774 - INFO - Data validation passed
+2026-03-31 20:04:02,840 - INFO - Data loaded into database
+2026-03-31 21:04:02,985 - INFO - ETL pipeline started
+2026-03-31 21:04:09,316 - ERROR - ETL pipeline failed: API failed after retries
+2026-03-31 22:04:42,781 - INFO - ETL pipeline started
+2026-03-31 22:04:43,631 - INFO - Data extracted successfully
+2026-03-31 22:04:44,009 - INFO - Data transformed successfully
+2026-03-31 22:04:44,010 - INFO - Data validation passed
+2026-03-31 22:04:44,126 - INFO - Data loaded into database
+2026-03-31 22:31:07,444 - INFO - ETL pipeline started
+2026-03-31 22:31:08,042 - INFO - Data extracted successfully
+2026-03-31 22:31:08,063 - INFO - Data transformed successfully
+2026-03-31 22:31:08,064 - INFO - Data validation passed
+2026-03-31 22:31:08,104 - INFO - Data loaded into database
+2026-04-04 20:26:17,037 - INFO - ETL pipeline started
+2026-04-04 20:26:19,117 - INFO - Data extracted successfully
+2026-04-04 20:26:19,157 - INFO - Data transformed successfully
+2026-04-04 20:26:19,157 - INFO - Data validation passed
+2026-04-04 20:26:19,258 - INFO - Data loaded into database
+2026-04-04 21:35:57,544 - INFO - ETL pipeline started
+2026-04-04 21:36:03,928 - ERROR - ETL pipeline failed: API failed after retries
+2026-04-04 22:36:04,078 - INFO - ETL pipeline started
+2026-04-04 22:36:05,189 - INFO - Data extracted successfully
+2026-04-04 22:36:05,440 - INFO - Data transformed successfully
+2026-04-04 22:36:05,440 - INFO - Data validation passed
+2026-04-04 22:36:05,499 - INFO - Data loaded into database
+2026-04-05 14:09:29,625 - INFO - ETL pipeline started
+2026-04-05 14:09:35,985 - ERROR - ETL pipeline failed: API failed after retries
+2026-04-06 20:06:42,622 - INFO - ETL pipeline started
+2026-04-06 20:06:43,717 - INFO - Data extracted successfully
+2026-04-06 20:06:43,751 - INFO - Data transformed successfully
+2026-04-06 20:06:43,752 - INFO - Data validation passed
+2026-04-06 20:06:43,799 - INFO - Data loaded into database
+2026-04-07 01:21:05,860 - INFO - ETL pipeline started
+2026-04-07 01:21:08,207 - INFO - Data extracted successfully
+2026-04-07 01:21:09,209 - INFO - Data transformed successfully
+2026-04-07 01:21:09,211 - INFO - Data validation passed
+2026-04-07 01:21:09,400 - INFO - Data loaded into database
+2026-04-07 09:40:04,497 - INFO - ETL pipeline started
+2026-04-07 09:40:05,366 - INFO - Data extracted successfully
+2026-04-07 09:40:05,833 - INFO - Data transformed successfully
+2026-04-07 09:40:05,835 - INFO - Data validation passed
+2026-04-07 09:40:05,981 - INFO - Data loaded into database
+2026-04-07 10:40:07,806 - INFO - ETL pipeline started
+2026-04-07 10:40:08,739 - INFO - Data extracted successfully
+2026-04-07 10:40:08,976 - INFO - Data transformed successfully
+2026-04-07 10:40:08,977 - INFO - Data validation passed
+2026-04-07 10:40:09,046 - INFO - Data loaded into database
+2026-04-07 14:56:15,596 - INFO - ETL pipeline started
+2026-04-07 14:56:16,820 - INFO - Data extracted successfully
+2026-04-07 14:56:16,854 - INFO - Data transformed successfully
+2026-04-07 14:56:16,855 - INFO - Data validation passed
+2026-04-07 14:56:17,134 - INFO - Data loaded into database
+2026-04-07 15:02:38,901 - INFO - ETL pipeline started
+2026-04-07 15:02:40,407 - INFO - Data extracted successfully
+2026-04-07 15:02:40,430 - INFO - Data transformed successfully
+2026-04-07 15:02:40,430 - INFO - Data validation passed
+2026-04-07 15:02:40,466 - INFO - Data loaded into database
+2026-04-07 23:06:59,556 | INFO | Pipeline started
+2026-04-07 23:06:59,557 | INFO | Data extracted
+2026-04-07 23:06:59,557 | ERROR | API failed
+2026-04-08 12:27:10,426 | INFO | Pipeline started
+2026-04-08 12:27:10,428 | INFO | Data extracted
+2026-04-08 12:27:10,428 | ERROR | API failed
+2026-04-08 12:27:10,428 | INFO | ETL pipeline started
+2026-04-08 12:27:11,207 | INFO | Data extracted successfully
+2026-04-08 12:27:11,262 | INFO | Data transformed successfully
+2026-04-08 12:27:11,263 | INFO | Data validation passed
+2026-04-08 12:27:11,306 | INFO | Data loaded into database
+2026-04-08 12:34:25,981 | INFO | Pipeline started
+2026-04-08 12:34:25,982 | INFO | Data extracted
+2026-04-08 12:34:25,982 | ERROR | API failed
+2026-04-08 12:39:21,239 | INFO | Pipeline started
+2026-04-08 12:39:21,239 | INFO | Data extracted
+2026-04-08 12:39:21,239 | ERROR | API failed
+2026-04-08 12:39:56,196 | INFO | Pipeline started
+2026-04-08 12:39:56,196 | INFO | Data extracted
+2026-04-08 12:39:56,196 | ERROR | API failed
+2026-04-08 20:21:07,545 | INFO | Pipeline started
+2026-04-08 20:21:07,545 | INFO | Data extracted
+2026-04-08 20:21:07,546 | ERROR | API failed
+2026-04-08 20:43:38,687 | INFO | Pipeline started
+2026-04-08 20:43:38,687 | INFO | Data extracted
+2026-04-08 20:43:38,688 | ERROR | API failed
+2026-04-08 20:43:57,414 | INFO | Pipeline started
+2026-04-08 20:43:57,414 | INFO | Data extracted
+2026-04-08 20:43:57,415 | ERROR | API failed
+2026-04-08 20:43:57,428 | INFO | ETL pipeline started
+2026-04-08 20:43:57,989 | INFO | Data extracted successfully
+2026-04-08 20:43:58,028 | INFO | Data transformed successfully
+2026-04-08 20:43:58,028 | INFO | Data validation passed
+2026-04-08 20:43:58,069 | INFO | Data loaded into database
+2026-04-08 20:45:15,866 | INFO | Pipeline started
+2026-04-08 20:45:15,867 | INFO | Data extracted
+2026-04-08 20:45:15,867 | ERROR | API failed
+2026-04-09 08:12:37,584 | INFO | Pipeline started
+2026-04-09 08:12:37,585 | INFO | Data extracted
+2026-04-09 08:12:37,586 | ERROR | API failed
+2026-04-09 08:12:37,586 | INFO | ETL pipeline started
+2026-04-09 08:12:38,461 | INFO | Data extracted successfully
+2026-04-09 08:12:38,522 | INFO | Data transformed successfully
+2026-04-09 08:12:38,522 | INFO | Data validation passed
+2026-04-09 08:12:38,628 | INFO | Data loaded into database
+2026-04-09 08:42:33,647 | INFO | Pipeline started
+2026-04-09 08:42:33,647 | INFO | Data extracted
+2026-04-09 08:42:33,647 | ERROR | API failed
+2026-04-09 08:42:33,647 | INFO | ETL pipeline started
+2026-04-09 08:42:34,440 | INFO | Data extracted successfully
+2026-04-09 08:42:34,489 | INFO | Data transformed successfully
+2026-04-09 08:42:34,489 | INFO | Data validation passed
+2026-04-09 08:42:34,531 | INFO | Data loaded into database
