@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>House Price Predictor</title>
+</head>
+<body>
+
+<h2>House Price Prediction</h2>
+
+<form action="/predict" method="post">
+
+    Area: <input type="number" name="area" required><br><br>
+    Bedrooms: <input type="number" name="bedrooms" required><br><br>
+    Bathrooms: <input type="number" name="bathrooms" required><br><br>
+    Age: <input type="number" name="age" required><br><br>
+
+    Location:
+    <select name="location">
+        <option>Suburb</option>
+        <option>Rural</option>
+        <option>City Center</option>
+    </select><br><br>
+
+    Property Type:
+    <select name="property_type">
+        <option>Apartment</option>
+        <option>Villa</option>
+        <option>House</option>
+    </select><br><br>
+
+    <button type="submit">Predict</button>
+
+</form>
+
+{% if prediction %}
+<h3>Predicted Price: {{ prediction }}</h3>
+{% endif %}
+
+</body>
+</html>
