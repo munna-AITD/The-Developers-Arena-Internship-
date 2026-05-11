@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Loan Approval System</title>
+</head>
+<body>
+
+<h2>Loan Approval Prediction</h2>
+
+<form action="/predict" method="post">
+
+Dependents: <input type="number" name="dependents"><br>
+Education: <select name="education">
+    <option value="Graduate">Graduate</option>
+    <option value="Not Graduate">Not Graduate</option>
+</select><br>
+
+Self Employed:
+<select name="self_employed">
+    <option value="Yes">Yes</option>
+    <option value="No">No</option>
+</select><br>
+
+Income: <input type="number" name="income"><br>
+Loan Amount: <input type="number" name="loan_amount"><br>
+Loan Term: <input type="number" name="loan_term"><br>
+CIBIL: <input type="number" name="cibil"><br>
+
+Residential Assets: <input type="number" name="residential"><br>
+Commercial Assets: <input type="number" name="commercial"><br>
+Luxury Assets: <input type="number" name="luxury"><br>
+Bank Assets: <input type="number" name="bank"><br>
+
+Model:
+<select name="model">
+    <option value="best_model">Best Model</option>
+    <option value="random_forest">Random Forest</option>
+    <option value="decision_tree">Decision Tree</option>
+    <option value="logistic_regression">Logistic Regression</option>
+</select>
+
+<br><br>
+<button type="submit">Predict</button>
+
+</form>
+
+<h3>{{ prediction }}</h3>
+
+</body>
+</html>
