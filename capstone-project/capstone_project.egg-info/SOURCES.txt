@@ -1,0 +1,8 @@
+README.md
+setup.py
+capstone_project.egg-info/PKG-INFO
+capstone_project.egg-info/SOURCES.txt
+capstone_project.egg-info/dependency_links.txt
+capstone_project.egg-info/requires.txt
+capstone_project.egg-info/top_level.txt
+src/__init__.py
